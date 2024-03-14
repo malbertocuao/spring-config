@@ -2,7 +2,7 @@ build:
   version: "v1.0"
 
 contact:
-  message: "Bank System - Accounts API"
+  message: "Bank System - Accounts API / Production Environment"
   details:
     name: "Mario Moreno - Product Owner"
     email: "mario.moreno@gmail.com"
