@@ -2,7 +2,7 @@ build:
   version: "v3.0"
 
 contact:
-  message: "Bank System - Accounts API"
+  message: "Bank System - Accounts API / Default Environment"
   details:
     name: "Max Alberto Cuao - Developer"
     email: "malbertocuao@gmail.com"
