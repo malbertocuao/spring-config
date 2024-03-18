@@ -2,9 +2,9 @@ build:
   version: "v1.0"
 
 contact:
-  message: "Bank System - Accounts API / Production Environment"
+  message: "Sistema Bancario - Accounts API / Entorno de Produccion"
   details:
-    name: "Mario Moreno - Product Owner"
+    name: "Mario Moreno - Product Owner / Team Lead"
     email: "mario.moreno@gmail.com"
   phone-numbers:
     - "(57) 305-745-9906"
