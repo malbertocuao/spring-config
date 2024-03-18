@@ -2,9 +2,9 @@ build:
   version: "v1.0"
 
 contact:
-  message: "Sistema Bancario - Accounts API / Entorno de Produccion"
+  message: "Sistema Bancario - Accounts API"
   details:
-    name: "Mario Moreno - Director de proyectos"
+    name: "Mario Moreno - Arquitecto de Software"
     email: "mario.moreno@gmail.com"
   phone-numbers:
     - "(57) 305-745-9906"
