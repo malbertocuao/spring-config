@@ -2,7 +2,7 @@ build:
   version: "v2.0"
 
 contact:
-  message: "Bank System - Accounts API"
+  message: "Bank System - Accounts API / RabbitMQ"
   details:
     name: "Javier Reyes - Product Owner"
     email: javier.reyes@gmail.com"
