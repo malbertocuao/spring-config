@@ -2,9 +2,9 @@ build:
   version: "v1.0"
 
 contact:
-  message: "Sistema Bancario - Accounts API"
+  message: "Sistema Bancario - Accounts API 2"
   details:
-    name: "Mario Moreno - Arquitecto de Software"
+    name: "Mario Moreno - Product Owner"
     email: "mario.moreno@gmail.com"
   phone-numbers:
     - "(57) 305-745-9906"
